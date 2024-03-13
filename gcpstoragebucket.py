@@ -15,5 +15,5 @@ def create_bucket(bucket_name):
     print(f"Bucket {bucket.name} created")
 
 if __name__ == "__main__":
-    bucket_name = "mcitbucketexamplelatest"  # Replace with your desired bucket name
+    bucket_name = "mcitbucketexamplelatestandbest"  # Replace with your desired bucket name
     create_bucket(bucket_name)
